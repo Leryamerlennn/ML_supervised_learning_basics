@@ -20,7 +20,7 @@ From fitting regression curves to tuning classification algorithms, this project
 ##  Contents
 
 
-The solution is presented in the file ([Notebook](notebooks/v.neganova@innopolis.university.ipynb))
+The solution is presented in the  [Notebook](notebooks/v.neganova@innopolis.university.ipynb)
 
 ###  Task 1 – Regression Modeling
 
