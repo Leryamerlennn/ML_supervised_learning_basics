@@ -62,6 +62,3 @@ The solution is presented in the  [Notebook](notebooks/v.neganova@innopolis.univ
 Focus: Practical supervised learning, evaluation & model selection  
 📫 Valerochka.neganova@mail.ru
 
----
-
-> This repository reflects my understanding of core supervised learning workflows using scikit-learn and real datasets.
